@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func main() {
+func test() {
 	conferenceName := "Go conference"
 	conferenceTickets := 50
 	var remainingTickets uint = 50
